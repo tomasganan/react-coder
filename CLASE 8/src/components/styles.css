@@ -1,0 +1,6 @@
+a {
+    color: black; /* cambia el color del texto */
+    text-decoration: none; /* elimina el subrayado por defecto */
+    padding: 5px 10px; /* añade un poco de espacio entre los links */
+    margin: 0 10px; /* añade un poco de margen entre los links */
+  }
